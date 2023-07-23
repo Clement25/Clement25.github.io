@@ -6,7 +6,7 @@ date: 2022-09-15
 venue: 'the International Conference on Computational Linguistics (COLING)'
 authors: '<strong>Wei Han</strong>, Hui Chen, Zhen Hai, Soujanya Poria, Lidong Bing'
 paperurl: https://arxiv.org/pdf/2209.05040.pdf
-codeurl: 
+codeurl: https://github.com/declare-lab/SANCL
 citation: ''
-stars:
+stars: 
 ---
