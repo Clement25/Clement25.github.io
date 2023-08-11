@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electronics and Information Engineering, Zhejiang University, 2018
 * M.S. in Electronics and Computer Engineeering, 2020
-* Ph.D in Information Science and Technology Design, SUTD, 2023 (expected)
+* Ph.D in Information Science and Technology Design, SUTD, 2024 (expected)
 
 Work experience
 ======
@@ -36,6 +36,8 @@ Service
   * Conferences
     * ICLR 2022
     * NeurIPS 2022
+    * ACL 2023
+    * EMNLP 2022 2023
 
 Publications
 ======
