@@ -23,4 +23,4 @@ Collaborations are welcome! If you are looking forward to research experience or
 
 👉 Check out our project [[here]](https://github.com/declare-lab/vqa-sampling)!
 
-🔥 [06/10/22] Two papers are accpeted to EMNLP and findings of EMNLP 2022!
+🔥 [06/10/22] Two papers are accpeted to EMNLP and Findings of EMNLP 2022!
