@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electronics and Information Engineering, Zhejiang University, 2018
 * M.S. in Electronics and Computer Engineeering, 2020
-* Ph.D in Information Science and Technology Design, SUTD, 2023 (expected)
+* Ph.D in Information Science and Technology Design, SUTD, 2024 (expected)
 
 Work experience
 ======
@@ -22,7 +22,7 @@ Work experience
   * Research Direction: Multimodal Learning in NLP
   * Mentor: Zhen Hai, Lidong Bing
 
-Service
+Services
 ======
 * Reviewer:
   * Journals
@@ -35,7 +35,9 @@ Service
     * IEEE Transactions on Intelligent Transportation Systems (T-ITS)
   * Conferences
     * ICLR 2022
-    * NeurIPS 2022
+    * NeurIPS 2022, 2023
+    * ACL & EMNLP 2023
+    * ACL Rolling Review 2023, 2024
 
 Publications
 ======
