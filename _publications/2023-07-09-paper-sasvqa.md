@@ -2,7 +2,7 @@
 title: "Self-Adaptive Sampling for Efficient Video Question-Answering"
 collection: publications
 date: 2024-06-21
-venue: '<i>North American Chapter of the Association for Computational Linguistics (NAACL)</i>'
+venue: '<i>Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</i>'
 authors: '<strong>Wei Han</strong>, Hui Chen, Min-Yen Kan, Soujanya Poria'
 paperurl: 'https://arxiv.org/pdf/2307.04192.pdf'
 codeurl: 'https://github.com/declare-lab/Sealing'
