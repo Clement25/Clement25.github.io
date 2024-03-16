@@ -29,10 +29,6 @@ Services
     * Journal of Machine Learning Research (JMLR)  
     * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCVST)
-    * Information Fusion
-    * Neuralcomputing
-    * Affective Computing
-    * IEEE Transactions on Intelligent Transportation Systems (T-ITS)
   * Conferences
     * ICLR 2022
     * NeurIPS 2022, 2023
