@@ -17,10 +17,8 @@ Education
 
 Work experience
 ======
-* Aug 2021-Feb 2022: NLP Research Intern
-  * DAMO acadamy, Alibaba Group
-  * Research Direction: Multimodal Learning in NLP
-  * Mentor: Zhen Hai, Lidong Bing
+* Aug 2021-Feb 2022: Research Intern, DAMO Acadamy, hosted by Lidong Bing
+* Aug 2022-Feb 2023: Research Intern, Zoom Video Communications, hosted by Shamil Chollampatt and Marco Turchi
 
 Services
 ======
