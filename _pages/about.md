@@ -14,6 +14,8 @@ His research interests include multimdoal learning, semi-supervised learning, me
 
 Collaborations are welcome! If you are looking forward to research experience or trying some projects with me, feel free to drop me an email (better to attach your CV or personal website so that I can get to know you well). 
 
+<span style="color: red;"> I am actively seeking research scientist/engineer positions starting in 2025 based in Singapore/China/U.S (no particular preference). Feel free to reach out to me if you are interested in my profile and have positions! </span>
+
 ## News
 🔥🔥🔥 <span style="color:red"> **[14/03/24]** </span> Our work about sampling in video question answering has been accepeted to **NAACL 2024** (Findings).
 
