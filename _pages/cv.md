@@ -19,11 +19,13 @@ Work experience
 ======
 * Aug 2021-Feb 2022: Research Intern, DAMO Acadamy, hosted by Lidong Bing
 * Aug 2022-Feb 2023: Research Intern, Zoom Video Communications, hosted by Shamil Chollampatt and Marco Turchi
+* Apr 2024-Oct 2024: Research Intern, Skywork 2050 Lab, hosted by Pan Zhou and Shuicheng Yan
 
 Services
 ======
 * Reviewer:
   * Journals
+    * ACM Computing Surveys
     * Journal of Machine Learning Research (JMLR)  
     * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCVST)
