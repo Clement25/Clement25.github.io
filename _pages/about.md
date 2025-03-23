@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Wei Han (Henry, 韩炜 in Chinese) is currently a third-year PhD candidate in [DeCLare Lab](https://declare-lab.net/), ISTD, SUTD, advised by Prof. [Soujanya Poria](https://sporia.info/). Before joining SUTD, he obtained a M.Phill Degree in Electronic and Computer Engineering in The Hong Kong University of Science and Technology (HKUST) in 2020.
+Wei Han is now a research scientist working on LLM Reasoning.
 
 His research interests include multimdoal learning, semi-supervised learning, meta learning and relation extraction in Natural Language Processing (NLP). For more information, you can check this [CV](https://Clement25.github.io/files/CV.pdf).
 
-Collaborations are welcome! If you are looking forward to research experience or trying some projects with me, feel free to drop me an email (better to attach your CV or personal website so that I can get to know you well). 
+Collaborations are always welcome! If you are looking forward to research experience or trying academic projects with me, feel free to drop me an email (better to attach your CV or personal website so that I can get to know you well). 
 
-<span style="color: red;"> I am actively seeking research scientist/engineer positions starting in 2025 based in Singapore/China/U.S (no particular preference). Feel free to reach out to me if you are interested in my profile and have positions! </span>
+<span style="color: red;"> I am actively seeking research scientist/engineer positions starting in 2025 based in Singapore/China/U.S (no particular preference). Feel free to reach out to me if you are interested in my profile and my skill set meets the position requirements! </span>
 
 ## News
 🔥🔥🔥 <span style="color:red"> **[14/03/24]** </span> Our work about sampling in video question answering has been accepeted to **NAACL 2024** (Findings).
