@@ -8,7 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Wei Han is now a research scientist. His research interests now focus on a broad range of topics regarding multimodal large language models (LLMs), including but not limited to: **supervised fintuning (SFT), reinforcement learning algorithms, retrive-augmented generation, long-context modeling, mathematical reasoning** and **multimodal LLMs**. In the past, I also worked on video understanding, multimodal representation learning and semi-supervised learning. For more information, you can check this [CV](https://Clement25.github.io/files/CV.pdf).
+Wei Han is now a research scientist. His research interests now focus on a broad range of topics regarding multimodal large language models (LLMs), mainly focus on the following topics with specific research questions:
+- Efficient Data-centric Alignment of LLMs
+  - **What makes reasoning data “high-quality”?**
+  - **Can we develop automatic methods to curate or distill alignment data?**
+  - **How can we balance correctness and efficiency in reasoning output?**
+- Large Reasoning Models
+  - **How to controll the Depth and Style of Reasoning?**
+  - **How to preserve reasoning consistency and faithfulness and avoid reasoning path that are logically flawed or disconnected from the final answer?**
+  - **Test-Time Control over Reasoning Behavior**
+- Agentic LLMs
+  - **Long-Horizon planning and decomposition**
+  - **Memory and context management**
+  - **Tool Use and Decision Making**
+
+Other interested directions or those I have worked on include *retrive-augmented generation (RAG), long-context modeling, video understanding, multimodal representation learning and semi-supervised learning (SSL)*. For more information, you can check my CV [here](https://Clement25.github.io/files/CV.pdf).
+
 
 Collaborations are always welcome! If you are looking forward to research experience or trying academic projects with me, feel free to drop me an email (better to attach your CV or personal website so that I can get to know you well). 
 
