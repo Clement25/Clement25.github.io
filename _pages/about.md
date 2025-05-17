@@ -15,20 +15,22 @@ Collaborations are always welcome! If you are looking forward to research experi
 <span style="color: red;"> I am actively seeking research scientist/engineer positions starting in 2025 based in Singapore/China/U.S (no particular preference). Feel free to reach out to me if you are interested in my profile and my skill set meets the position requirements! </span>
 
 ## News
-🔥🔥🔥  <span style="color:red"> [2025.01] </span> Our work on multimodal recommendation has been accepeted to **NAACL 2025**.
+🔥🔥🔥  <span style="color:red"> **[2025.01]** </span> Our work on multimodal recommendation has been accepeted to **NAACL 2025**.
 
 Check out the project 👉 &emsp; 💻 [code](https://github.com/declare-lab/Sealing) &ensp; 📖 [paper](https://arxiv.org/pdf/2505.01255)
+
 
 🔥🔥🔥 <span style="color:red"> **[2024.10]** </span> **We release the latest work on *long-context modeling*, in which we propose a new architecture for efficient post-training and finetuning.**
 
 Check out the project 👉 &emsp; 💻 [code](https://github.com/Clement25/SharedLLM) &ensp; 📖 [paper](https://arxiv.org/pdf/2410.19318)
 
-🔥 <span style="color:red"> [2024.03] </span> Our work on efficient sampling in video question answering has been accepeted to **NAACL 2024**.
+
+[2024.03] Our work on efficient sampling in video question answering has been accepeted to **NAACL 2024**.
 
 Check out the project 👉 &emsp; 💻 [code](https://github.com/declare-lab/Sealing) &ensp; 📖 [paper](https://arxiv.org/pdf/2307.04192.pdf)
 
-🔥 <span style="color:red"> [2024.02] </span> We have released the code of **Auto Scaling**, the first framework for automatic instruction scaling in (multimodal) instruction fine-tuning.
+[2024.02] We have released the code of **Auto Scaling**, the first framework for automatic instruction scaling in (multimodal) instruction fine-tuning.
 
 Check out the project 👉 &emsp; 💻 [code](https://github.com/declare-lab/Auto-Scaling) &ensp; 📖 [paper](https://arxiv.org/pdf/2402.14492.pdf)
 
-[06/10/22] Two papers are accpeted to EMNLP and Findings of EMNLP 2022!
+[2022.10] Two papers are accpeted to EMNLP and Findings of EMNLP 2022!
