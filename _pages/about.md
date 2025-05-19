@@ -31,21 +31,17 @@ Collaborations are always welcome! If you are looking forward to research experi
 
 ## News
 🔥🔥🔥  <span style="color:red"> **[2025.01]** </span> Our work on multimodal recommendation has been accepeted to **NAACL 2025**.
-
-Check out the project 👉 &emsp; 💻 [code](https://github.com/declare-lab/Sealing) &ensp; 📖 [paper](https://arxiv.org/pdf/2505.01255)
+👉 💻 [code](https://github.com/declare-lab/Sealing) &ensp; 📖 [paper](https://arxiv.org/pdf/2505.01255)
 
 
 🔥🔥🔥 <span style="color:red"> **[2024.10]** </span> **We release the latest work on *long-context modeling*, in which we propose a new architecture for efficient post-training and finetuning.**
-
-Check out the project 👉 &emsp; 💻 [code](https://github.com/Clement25/SharedLLM) &ensp; 📖 [paper](https://arxiv.org/pdf/2410.19318)
+👉 💻 [code](https://github.com/Clement25/SharedLLM) &ensp; 📖 [paper](https://arxiv.org/pdf/2410.19318)
 
 
 [2024.03] Our work on efficient sampling in video question answering has been accepeted to **NAACL 2024**.
-
-Check out the project 👉 &emsp; 💻 [code](https://github.com/declare-lab/Sealing) &ensp; 📖 [paper](https://arxiv.org/pdf/2307.04192.pdf)
+👉 💻 [code](https://github.com/declare-lab/Sealing) &ensp; 📖 [paper](https://arxiv.org/pdf/2307.04192.pdf)
 
 [2024.02] We have released the code of **Auto Scaling**, the first framework for automatic instruction scaling in (multimodal) instruction fine-tuning.
-
-Check out the project 👉 &emsp; 💻 [code](https://github.com/declare-lab/Auto-Scaling) &ensp; 📖 [paper](https://arxiv.org/pdf/2402.14492.pdf)
+👉 💻 [code](https://github.com/declare-lab/Auto-Scaling) &ensp; 📖 [paper](https://arxiv.org/pdf/2402.14492.pdf)
 
 [2022.10] Two papers are accpeted to EMNLP and Findings of EMNLP 2022!
