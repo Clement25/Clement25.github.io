@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electronics and Information Engineering, Zhejiang University, 2018
-* M.S. in Electronics and Computer Engineeering, 2020
-* Ph.D in Information Science and Technology Design, SUTD, 2024 (expected)
+* M.S. in Electronics and Computer Engineeering, HKUST, 2020
 
 Work experience
 ======
