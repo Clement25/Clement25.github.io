@@ -30,11 +30,14 @@ Collaborations are always welcome! If you are looking forward to research experi
 <span style="color: red;"> I am actively seeking research scientist/engineer positions starting in 2025 based in Singapore/China/U.S (no particular preference). Feel free to reach out to me if you are interested in my profile and my skill set meets the position requirements! </span>
 
 ## News
-🔥🔥🔥  <span style="color:red"> **[2025.01]** </span> Our work on multimodal recommendation has been accepeted to **NAACL 2025**.
+🚀🚀  <span style="color:red"> **[2025.09]** </span> Our work on multimodal recommendation has been accepeted to **NIPS 2025 (D&B Track)**.
+👉 💻 [code](https://github.com/chchenhui/mlr-bench/tree/main) &ensp; 📖 [paper](https://arxiv.org/pdf/2505.19955) &ensp; 🤗[dataset](https://huggingface.co/datasets/chchenhui/mlrbench-tasks)
+
+<span style="color:red"> [2025.01] </span> Our work on multimodal recommendation has been accepeted to **NAACL 2025**.
 👉 💻 [code](https://github.com/declare-lab/Sealing) &ensp; 📖 [paper](https://arxiv.org/pdf/2505.01255)
 
 
-🔥🔥🔥 <span style="color:red"> **[2024.10]** </span> **We release the latest work on *long-context modeling*, in which we propose a new architecture for efficient post-training and finetuning.**
+<span style="color:red"> [2024.10] </span> **We release the latest work on *long-context modeling*, in which we propose a new architecture for efficient post-training and finetuning.**
 👉 💻 [code](https://github.com/Clement25/SharedLLM) &ensp; 📖 [paper](https://arxiv.org/pdf/2410.19318)
 
 
@@ -43,5 +46,3 @@ Collaborations are always welcome! If you are looking forward to research experi
 
 [2024.02] We have released the code of **Auto Scaling**, the first framework for automatic instruction scaling in (multimodal) instruction fine-tuning.
 👉 💻 [code](https://github.com/declare-lab/Auto-Scaling) &ensp; 📖 [paper](https://arxiv.org/pdf/2402.14492.pdf)
-
-[2022.10] Two papers are accpeted to EMNLP and Findings of EMNLP 2022!
