@@ -30,7 +30,7 @@ Collaborations are always welcome! If you are looking forward to research experi
 <span style="color: red;"> I am actively seeking research scientist/engineer positions starting in 2025 based in Singapore/China/U.S (no particular preference). Feel free to reach out to me if you are interested in my profile and my skill set meets the position requirements! </span>
 
 ## News
-🚀🚀  <span style="color:red"> **[2025.09]** </span> Our work on multimodal recommendation has been accepeted to **NIPS 2025 (D&B Track)**.
+🚀🚀  <span style="color:red"> **[2025.09]** </span> **MLR-Bench: a benchmark for LLM agent on research purpose** has been accepeted to **NIPS 2025 (D&B Track)**.
 👉 💻 [code](https://github.com/chchenhui/mlr-bench/tree/main) &ensp; 📖 [paper](https://arxiv.org/pdf/2505.19955) &ensp; 🤗[dataset](https://huggingface.co/datasets/chchenhui/mlrbench-tasks)
 
 <span style="color:red"> [2025.01] </span> Our work on multimodal recommendation has been accepeted to **NAACL 2025**.
